@@ -1,2 +1,2 @@
 # LabwareModels
-3D models for consumable labware
+3D models for scientific labware
